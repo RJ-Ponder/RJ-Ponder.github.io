@@ -6,10 +6,10 @@ title: About
 
 This page tells you a little bit about me.
 
-```ruby
+{% highlight ruby %}
 class Dog
   def initialize(name)
     @name = name
   end
 end
-```
+{% endhighlight %}
