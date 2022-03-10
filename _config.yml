@@ -83,7 +83,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rj-ponder/rj-ponder.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Welcome" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "RJ Ponder" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -162,12 +162,12 @@ author:
   name             : "RJ Ponder"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Studying at Launch School"
-  location         : "Richomd, VA"
+  location         : "Richmond, VA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "rjponder@gmail.com"
+      # url: "rjponder@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rj-ponder.github.io/"
