@@ -56,6 +56,11 @@ html, body {
   font-size: 1rem;
   color: inherit;
   opacity: 0.8; }
+  
+.nav-link-3 {
+  padding: 0;
+  color: black;
+  opacity: 0.8; }
 
 .header-social .nav-link {
   font-size: 1.25rem; }
@@ -68,6 +73,12 @@ html, body {
 .nav-link-2:hover,
 .nav-link-2:focus {
   color: inherit;
+  /*text-decoration: underline;*/
+  opacity: 1; }
+  
+.nav-link-3:hover,
+.nav-link-3:focus {
+  color: black;
   /*text-decoration: underline;*/
   opacity: 1; }
 
