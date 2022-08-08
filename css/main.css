@@ -50,6 +50,12 @@ html, body {
   line-height: 2.5rem;
   color: inherit;
   opacity: 0.8; }
+  
+.nav-link-2 {
+  padding: 0;
+  font-size: 1rem;
+  color: inherit;
+  opacity: 0.8; }
 
 .header-social .nav-link {
   font-size: 1.25rem; }
@@ -57,6 +63,12 @@ html, body {
 .nav-link:hover,
 .nav-link:focus {
   color: inherit;
+  opacity: 1; }
+  
+.nav-link-2:hover,
+.nav-link-2:focus {
+  color: inherit;
+  /*text-decoration: underline;*/
   opacity: 1; }
 
 .nav-item + .nav-item {
